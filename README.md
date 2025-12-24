@@ -107,7 +107,7 @@ const mrheiz97 = {
     ],
     funFact: "I love combining tech, performance and social impact"
 };
-
+```
 
 ## 🎉 Fun Fact
 
