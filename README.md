@@ -7,15 +7,17 @@
 
 </div>
 
-**Experienced Developer** with a passion for creating immersive experiences and innovative solutions. Specializing in **JavaScript, Lua, HTML, Bash, and Python** with a focus on game development and automation.
+**Experienced Developer** with a passion for creating immersive experiences **and meaningful real-world projects**.  
+Specializing in **JavaScript, Lua, Go, HTML, Bash, and Python** with a focus on **game development, automation & social impact tech**.
 
 ---
 
 ## 🚀 Current Focus
 
-- 🛠️ **[Netry Roleplay](https://github.com/Netry-Studio)** - Leading RP server project for the FiveM community
-- 📚 Deepening my knowledge in **C++** and **Node.js** to enhance backend systems
-- 🎮 Building immersive worlds that enhance player experience
+- 🛠️ **[Netry Roleplay](https://github.com/Netry-Studio)** – Leading RP server project for the FiveM community  
+- ❤️ **[RettConnect e.V.](https://github.com/RettConnect-e-V)** – A non-profit heart project focused on digital solutions for emergency & rescue services  
+- 📚 Expanding my skills in **Go, C++ and Node.js** for scalable backend systems  
+- 🎮 Building immersive worlds & tools that actually help people
 
 ---
 
@@ -26,12 +28,30 @@ I maintain and contribute to several specialized organizations:
 ### 🎭 [Netry Studio](https://github.com/Netry-Studio)
 *FiveM Scripts, Resources & RP Projects*
 
-The home for all FiveM-related development, including custom scripts, frameworks, and resources for the Netry Roleplay server. Focused on quality, immersion, and innovative gameplay features.
+The home for all FiveM-related development, including custom scripts, frameworks, and resources for the Netry Roleplay server.  
+Focused on **quality, immersion, and innovative gameplay features**.
+
+---
+
+### ❤️ [RettConnect e.V.](https://github.com/RettConnect-e-V)
+*Digital Solutions for Emergency & Rescue Services*
+
+**RettConnect e.V. is a true heart project** that I founded to support emergency services through modern, open and reliable software solutions.
+
+**Mission & Goals:**
+- 🚑 Digital tools for rescue & emergency organizations  
+- 🌍 Open-source, transparent & community-driven  
+- 🤝 Bridging technology and voluntary work  
+
+> 🔍 **We are actively looking for contributors, developers & supporters**  
+> If you want to build software that has real impact — feel free to reach out!
+
+---
 
 ### 🔨 [Stumpf.works](https://github.com/Stumpf-works)
 *Personal Projects & Experiments*
 
-My creative playground for personal projects, experimental code, and passion projects that don't fit into other categories. Here's where I explore new technologies and build tools for fun.
+My creative playground for personal projects, experimental code, and passion projects that don't fit into other categories.
 
 ---
 
@@ -41,6 +61,7 @@ My creative playground for personal projects, experimental code, and passion pro
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -67,45 +88,26 @@ My creative playground for personal projects, experimental code, and passion pro
 
 ---
 
-## 📂 Featured Projects
-
-### 🛡️ Netry Roleplay
-*Leading RP project with focus on quality and immersion*
-
-- **Custom Scripts** for immersive police and faction gameplay
-- **Server Automation** using Lua and Python
-- **Unique Player Experience** powered by JavaScript and HTML interfaces
-- **Optimized Performance** for seamless gameplay
-
-### 🔧 FiveM Resources
-*Custom-built resources for the FiveM community*
-
-Check out [Netry Studio](https://github.com/Netry-Studio) for all FiveM-related projects and scripts.
-
-### 💡 Personal Projects
-*Experimental and passion projects*
-
-Explore [Stumpf.works](https://github.com/Stumpf-works) for creative experiments and personal tools.
-
----
-
 ## 🎯 What I Do
 
 ```javascript
 const mrheiz97 = {
-    code: ["Lua", "JavaScript", "Python", "Bash", "HTML/CSS"],
+    code: ["Lua", "JavaScript", "Go", "Python", "Bash", "HTML/CSS"],
     technologies: {
         gamedev: ["FiveM", "CFX", "Lua Scripting"],
         frontend: ["Next.js", "React", "HTML5", "CSS3"],
-        backend: ["Node.js", "Python", "C++"],
-        automation: ["Bash", "Python Scripts"]
+        backend: ["Go", "Node.js", "Python", "C++"],
+        automation: ["Bash", "Python Scripts"],
+        nonprofit: ["Open Source", "Rescue Tech", "Community Projects"]
     },
-    currentFocus: "Building immersive RP experiences",
-    funFact: "I enjoy creating worlds and solving technical challenges"
+    currentFocus: [
+        "Immersive RP experiences",
+        "High-performance backend services with Go",
+        "Building software that helps emergency services"
+    ],
+    funFact: "I love combining tech, performance and social impact"
 };
-```
 
----
 
 ## 🎉 Fun Fact
 
